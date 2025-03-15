@@ -4,3 +4,4 @@
 para ejecutar el sistema debes poner 
 ``` np install react```
 
+sistema de registro 2
